@@ -5,7 +5,6 @@ from lissajous import Lissajous
 # initializing pygame
 pygame.init()
 
-# Permanent variables: Scale, each block size, width, height, dimensions
 WIDTH = 1000
 HEIGHT = 1000
 DIMENSIONS = (WIDTH, HEIGHT)
