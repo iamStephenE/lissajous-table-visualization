@@ -20,7 +20,6 @@ FRAMES = int(1000/100)
 
 # -----------------------------------------------------------------------
 
-# (initial radius, position, # of circles, less, thickness)
 num_of_curves = 10
 base_angle = 0.01
 curves = Lissajous(WIDTH, num_of_curves, base_angle, 1)
